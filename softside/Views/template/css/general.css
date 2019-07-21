@@ -1,0 +1,14 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+.main-btns {
+    position: fixed;
+    margin-top: 0px;
+    height: 20%;
+}
+
+.devs {
+    margin-top: 15%;
+}
